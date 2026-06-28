@@ -1,8 +1,12 @@
-# Hi there! 👋 I'm Yasemin
+# Hi there! I'm Yasemin!
 
 🎯 Data Analyst
 
-I'm passionate about transforming data into actionable business insights.
+## 👋 About Me
+
+I'm a Data Analyst with experience in analytics, business intelligence, and data engineering.
+
+I enjoy transforming raw data into meaningful insights using SQL, Python, and Power BI to support data-driven decision making.
 
 ## 🛠️ Skills
 
@@ -10,7 +14,6 @@ I'm passionate about transforming data into actionable business insights.
 - Python
 - Power BI
 - PostgreSQL, MySQL
-- Excel
 - Data Visualization
 - Data Cleaning
 - ETL
