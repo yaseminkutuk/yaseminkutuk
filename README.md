@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there! 👋 I'm Yasemin
 
-<!--
-**yaseminkutuk/yaseminkutuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst
 
-Here are some ideas to get you started:
+I'm passionate about transforming data into actionable business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- SQL
+- Python
+- Power BI
+- PostgreSQL, MySQL
+- Excel
+- Data Visualization
+- Data Cleaning
+- ETL
+
+## 📂 Featured Projects
+
+🚧 Coming Soon...
+
+- Sales Analytics Dashboard
+- Customer Churn Analysis
+- Healthcare Analytics
+- Business Case Studies
+
+## 🎓 Education
+
+- M.Sc. in Data and Knowledge Engineering, Hacettepe University
+- B.Sc. in Food Engineering, Hacettepe University
+
+## 🌱 Currently Learning
+
+- Advanced Power BI
+- Business Analytics
+- Data Storytelling
+
+## 📫 Connect with me
+
+- LinkedIn: [Yasemin Kütük](https://www.linkedin.com/in/yasemin-k%C3%BCt%C3%BCk-014285b8/)
