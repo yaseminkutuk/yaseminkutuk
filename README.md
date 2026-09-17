@@ -1,12 +1,12 @@
-# Hi there! I'm Yasemin!
+# Hi there! I'm Yasemin! 🌼​
 
-🎯 Data Analyst
+​💻​ Data Analyst
 
-## 👋 About Me
+## About Me
 
 Data Analyst with 5+ years of professional experience in analytics, business intelligence, and data engineering. Passionate about transforming raw data into actionable insights through SQL, Python, and Power BI.
 
-## 🛠️ Skills
+## Skills
 
 - SQL
 - Python
@@ -15,27 +15,30 @@ Data Analyst with 5+ years of professional experience in analytics, business int
 - Data Visualization
 - Data Cleaning
 - ETL
+- Business Process Analysis
+- BPMN 2.0
 
-## 📂 Featured Projects
+## Featured Projects
 
-🚧 Coming Soon...
+Coming Soon...
 
 - Sales Analytics Dashboard
 - Customer Churn Analysis
 - Healthcare Analytics
 - Business Case Studies
 
-## 🎓 Education
+## Education
 
 - M.Sc. in Data and Knowledge Engineering, Hacettepe University
 - B.Sc. in Food Engineering, Hacettepe University
 
-## 🌱 Currently Learning
+## Currently Learning
 
-- Advanced Power BI
+- Advanced SQL: MySQL for Ecommerce Data Analysis
 - Business Analytics
-- Data Storytelling
+- Data Science and AI Bootcamp
 
-## 📫 Connect with me
-
-- LinkedIn: [Yasemin Kütük](https://www.linkedin.com/in/yasemin-k%C3%BCt%C3%BCk-014285b8/)
+## Connect with me
+ 
+💼 LinkedIn: [Yasemin Kütük](https://www.linkedin.com/in/yasemin-k%C3%BCt%C3%BCk-014285b8/)
+📧 yaseminkutuk@outlook.com
