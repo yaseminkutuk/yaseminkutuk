@@ -4,9 +4,7 @@
 
 ## 👋 About Me
 
-I'm a Data Analyst with experience in analytics, business intelligence, and data engineering.
-
-I enjoy transforming raw data into meaningful insights using SQL, Python, and Power BI to support data-driven decision making.
+Data Analyst with 5+ years of professional experience in analytics, business intelligence, and data engineering. Passionate about transforming raw data into actionable insights through SQL, Python, and Power BI.
 
 ## 🛠️ Skills
 
