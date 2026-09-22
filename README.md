@@ -4,11 +4,11 @@
 
 ## Skills 💻​ 
 
-Power BI · Data Visualization · Data Cleaning · ETL · Business Process Analysis · BPMN 2.0
+Power BI · Data Visualization · Data Cleaning · ETL · Business Process Analysis · BPMN 2.0 · SAP Signavio
 
 ## Languages & Tools 🛠️
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,java,idea,pycharm" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,github,java,idea,pycharm" /> 
 
 ## Education 🎓
 
