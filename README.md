@@ -17,6 +17,4 @@ Power BI · Data Visualization · Data Cleaning · ETL · Business Process Analy
 
 ## Connect with me 🔗
  
-💼 [LinkedIn](https://www.linkedin.com/in/yasemin-k%C3%BCt%C3%BCk-014285b8/)
-
 📧 <a href="yaseminkutuk@outlook.com">yaseminkutuk@outlook.com</a>
