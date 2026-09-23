@@ -1,15 +1,20 @@
 ## Hi there! I'm Yasemin! 👋 
 
-​Data Analyst with 5+ years of professional experience in analytics, business intelligence, and data engineering. Passionate about transforming raw data into actionable insights.
+​Data Analyst with 5+ years of professional experience in data analytics, business intelligence, and data engineering. Passionate about transforming raw data into actionable insights.
 
 ## Skills 💻​ 
 
-Power BI · Data Visualization · Data Cleaning · ETL · Business Process Analysis · BPMN 2.0 · SAP Signavio
+Data Visualization · Data Cleaning · Data Analysis · ETL · Business Process Analysis · BPMN 2.0
 
 ## Languages & Tools 🛠️
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,github,java,idea,pycharm" /> 
-
+<p>
+ <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,github,java,idea,pycharm" /> 
+  <img src="assets/powerbi.svg" width="48" height="42"/>
+  <img src="assets/excel.svg" width="48" height="42"/>
+ <img src="assets/sap.webp" width="48" height="42"/>
+  <img src="assets/signavio.webp" width="48" height="42"/>
+</p>
 ## Education 🎓
 
 - M.Sc. in Data and Knowledge Engineering, Hacettepe University
