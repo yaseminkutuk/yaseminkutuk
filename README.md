@@ -15,6 +15,7 @@ Data Visualization · Data Cleaning · Data Analysis · ETL · Business Process 
  <img src="assets/sap.webp" width="48" height="42"/>
   <img src="assets/signavio.webp" width="48" height="42"/>
 </p>
+
 ## Education 🎓
 
 - M.Sc. in Data and Knowledge Engineering, Hacettepe University
